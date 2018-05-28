@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\ADTs">
+      <UniqueIdentifier>{f380dbe7-1bff-4f1f-9ab1-c14fecd423b3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="StringSplitter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sorter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Array.h">
+      <Filter>Header Files\ADTs</Filter>
+    </ClInclude>
+    <ClInclude Include="Bag.h">
+      <Filter>Header Files\ADTs</Filter>
+    </ClInclude>
+    <ClInclude Include="Collection.h">
+      <Filter>Header Files\ADTs</Filter>
+    </ClInclude>
+    <ClInclude Include="Enumerator.h">
+      <Filter>Header Files\ADTs</Filter>
+    </ClInclude>
+    <ClInclude Include="Indexed.h">
+      <Filter>Header Files\ADTs</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedList.h">
+      <Filter>Header Files\ADTs</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedListEnumerator.h">
+      <Filter>Header Files\ADTs</Filter>
+    </ClInclude>
+    <ClInclude Include="ListNode.h">
+      <Filter>Header Files\ADTs</Filter>
+    </ClInclude>
+    <ClInclude Include="Queue.h">
+      <Filter>Header Files\ADTs</Filter>
+    </ClInclude>
+    <ClInclude Include="Stack.h">
+      <Filter>Header Files\ADTs</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector.h">
+      <Filter>Header Files\ADTs</Filter>
+    </ClInclude>
+    <ClInclude Include="VectorEnumerator.h">
+      <Filter>Header Files\ADTs</Filter>
+    </ClInclude>
+    <ClInclude Include="IndexedSorter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InsertionSorter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BubbleSorter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SelectionSorter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SortedBag.h">
+      <Filter>Header Files\ADTs</Filter>
+    </ClInclude>
+    <ClInclude Include="RandomNumberGenerator.h">
+      <Filter>Header Files\ADTs</Filter>
+    </ClInclude>
+    <ClInclude Include="DoubleLinkNode.h">
+      <Filter>Header Files\ADTs</Filter>
+    </ClInclude>
+    <ClInclude Include="DoubleLinkedList.h">
+      <Filter>Header Files\ADTs</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
